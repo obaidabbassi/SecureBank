@@ -1,0 +1,65 @@
+body{
+
+
+    background-color: #f1f2f4;
+}
+
+.outer{
+
+
+background-color: white;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+height:50vh;
+width: 50%;
+margin: auto;
+border-radius:10px;
+
+
+}
+
+.inner{
+display:flex;
+justify-content: center;
+
+
+
+}
+
+
+.login{
+
+
+    width: 50%;
+    height: 60vh;
+}
+
+
+.img{
+    width: 50%;
+
+}
+img{
+
+    height: 60vh;
+    width: 100%;
+}
+
+.form-control{
+
+    width: 100%;
+}
+
+
+.empty{
+
+    margin-top: 50%;
+    margin-bottom: 50px;
+}
+
+
+.signupmain{
+
+
+background-color: white;
+
+}
